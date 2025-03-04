@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💻 Tiep Pham | Backend & Android Developer
 
-<!--
-**pat0nnSt/pat0nnSt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Tiep Pham **, a passionate developer specializing in **Java Spring Boot** for backend and **Android development**. I love exploring application design, architecture, and new technologies.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Final-year Computer Science student at Hanoi University of Industry (GPA: 3.23)
+- 🔍 Interested in **Java Backend**, **Android Development**, **Machine Learning**, and **MLOps**
+- 📌 Former intern at **Samsung R&D Center Vietnam** (Java, Android, Algorithms)
+- 🌍 TOEIC: **890/990**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- **Backend:** Java, Spring Boot, RESTful API, PostgreSQL, MongoDB, Docker, WebSocket
+- **Android:** Android Development, Jetpack Compose, Firebase
+- **Machine Learning:** Transformer-based models, Image Captioning, ViT-BART
+- **DevOps:** Kubernetes, Docker, CI/CD
+
+## 🌱 Future Goals
+- **Deepen Android Development knowledge** (Jetpack Compose, Native Performance Optimization)
+- **Deploy AI/ML models with Kubernetes and Docker**
+- **Develop large-scale applications with Microservices architecture**
+
+Thanks for visiting my profile! 😊🚀
