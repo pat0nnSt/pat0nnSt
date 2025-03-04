@@ -3,7 +3,6 @@
 Hi there! I'm **Tiep Pham **, a passionate developer specializing in **Java Spring Boot** for backend and **Android development**. I love exploring application design, architecture, and new technologies.
 
 ## 🚀 About Me
-- 🎓 Final-year Computer Science student at Hanoi University of Industry (GPA: 3.23)
 - 🔍 Interested in **Java Backend**, **Android Development**, **Machine Learning**, and **MLOps**
 - 📌 Former intern at **Samsung R&D Center Vietnam** (Java, Android, Algorithms)
 - 🌍 TOEIC: **890/990**
